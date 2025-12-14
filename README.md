@@ -64,10 +64,10 @@ AUC = P(score(positive) > score(negative))
 ```
 There is a batch processing training script in Google Drive：https://drive.google.com/drive/folders/1jL8F6WxgZfGf9ee9WkwHq7Jm_MQha2dr?usp=sharing
 
-Main Code by Boyang Zhang
+Boyang Zhang: Model Construction & Training Code Writting
 
-Memory Mechanism by Phat Duong
+Phat Duong: Memory Mechanism Design & Flight Data Collecting
 
-Weather Data collected and merged by Zhengyu Zhuang
+Zhengyu Zhuang: Weather Data Collecting & Merging Data
 
-Flight Data collected by Phat Duong and Youwei Chen
+Youwei Chen: Flight Data Collecting
