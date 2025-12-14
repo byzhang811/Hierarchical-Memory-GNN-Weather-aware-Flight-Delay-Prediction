@@ -53,7 +53,7 @@ AUC = P(score(positive) > score(negative))
 | Step 3 (Hierarchical) | ✓ | Hierarchical | ✗ | 81.58 |
 | Step 4 (Hierarchical + Weather) | ✓ | Hierarchical | ✓ | **85.30** |
 
-## Repository Structure (suggested)
+## Repository Structure
 ```text
 .
 ├── weather/                   # place processed data here (not tracked)
@@ -62,3 +62,5 @@ AUC = P(score(positive) > score(negative))
 │   ├── addWeather
 │   └── addMemory
 └── README.md
+```
+There is a batch processing training script in Google Drive：https://drive.google.com/drive/folders/1jL8F6WxgZfGf9ee9WkwHq7Jm_MQha2dr?usp=sharing
