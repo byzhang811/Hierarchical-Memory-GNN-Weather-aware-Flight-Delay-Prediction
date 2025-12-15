@@ -55,7 +55,7 @@ AUC = P(score(positive) > score(negative))
 ## Repository Structure
 ```text
 .
-├── weather/                   # place processed data here (not tracked)
+├── weather/                   # place processed data here
 │   ├── Baseline
 │   ├── addFeature
 │   ├── addWeather
